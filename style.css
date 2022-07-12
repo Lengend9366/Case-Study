@@ -1,0 +1,47 @@
+body
+{
+    text-align: center;
+background-size: cover;
+background-position: center;
+}
+.heading
+{
+width: 100%;
+margin: 5px;
+font-size: 20px;
+border-radius: 20px;
+box-shadow: 5px 5px 5px black;
+margin-bottom: 50px;
+}
+#image
+{
+    width: 80px;
+    border-radius: 10px;
+    border: 1px solid white;
+    margin-left: 30px;
+}
+
+img
+{
+    width: 200px;
+    margin: 5px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px black;
+}
+.test_image_and_result
+{
+    background-color: gray;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 50px;
+    width: 100%;
+    
+}
+
+h5
+{
+    background-color: yellow;
+    padding: 5px;
+    margin: 2px;
+    border-radius: 20px;
+}
